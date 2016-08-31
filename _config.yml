@@ -10,7 +10,15 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+opengraph:
+  type: >-
+    https://www.facebook.com/events/1572357669726853/1585067101789243/?notif_t=plan_mall_activity&notif_id=1472480692458648
 layout_spectrum: 0.6859716530889273
+author:
+  name: Antoine Richards
+  email: antoine11@juno.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76b3b82c-d28e-482e-87ad-fb19864ceb86.jpg
 name: Men of Character
 title: Men of Character Fraternity Inc.
 description: '"I''m Building Me A Home"'
